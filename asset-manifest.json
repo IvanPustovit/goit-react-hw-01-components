@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a8a1928.chunk.css",
-    "main.js": "/static/js/main.8542823b.chunk.js",
-    "main.js.map": "/static/js/main.8542823b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bf90f25e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bf90f25e.js.map",
-    "static/js/2.8a655493.chunk.js": "/static/js/2.8a655493.chunk.js",
-    "static/js/2.8a655493.chunk.js.map": "/static/js/2.8a655493.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.614a858b0c55d12ef535ec16583cb91a.js": "/precache-manifest.614a858b0c55d12ef535ec16583cb91a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0a8a1928.chunk.css.map": "/static/css/main.0a8a1928.chunk.css.map",
-    "static/js/2.8a655493.chunk.js.LICENSE.txt": "/static/js/2.8a655493.chunk.js.LICENSE.txt"
+    "main.css": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/css/main.68af53b9.chunk.css",
+    "main.js": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/main.0a5b626f.chunk.js",
+    "main.js.map": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/main.0a5b626f.chunk.js.map",
+    "runtime-main.js": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/runtime-main.aebb89f9.js",
+    "runtime-main.js.map": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/runtime-main.aebb89f9.js.map",
+    "static/js/2.8a655493.chunk.js": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/2.8a655493.chunk.js",
+    "static/js/2.8a655493.chunk.js.map": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/2.8a655493.chunk.js.map",
+    "index.html": "/https//ivanpustovit.github.io/goit-react-hw-01-components/index.html",
+    "precache-manifest.3ed7c0b83a32670c5f0181461e305257.js": "/https//ivanpustovit.github.io/goit-react-hw-01-components/precache-manifest.3ed7c0b83a32670c5f0181461e305257.js",
+    "service-worker.js": "/https//ivanpustovit.github.io/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.68af53b9.chunk.css.map": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/css/main.68af53b9.chunk.css.map",
+    "static/js/2.8a655493.chunk.js.LICENSE.txt": "/https//ivanpustovit.github.io/goit-react-hw-01-components/static/js/2.8a655493.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf90f25e.js",
+    "static/js/runtime-main.aebb89f9.js",
     "static/js/2.8a655493.chunk.js",
-    "static/css/main.0a8a1928.chunk.css",
-    "static/js/main.8542823b.chunk.js"
+    "static/css/main.68af53b9.chunk.css",
+    "static/js/main.0a5b626f.chunk.js"
   ]
 }
