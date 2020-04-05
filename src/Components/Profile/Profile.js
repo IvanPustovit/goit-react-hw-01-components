@@ -1,8 +1,8 @@
 import React from "react";
-import user from "./user.json";
+import PropTypes from "prop-types";
 import classes from "./profile.module.css";
 
-const Profile = () => {
+const Profile = ({ user }) => {
   return (
     <div className={classes.profile}>
       <div className={classes.description}>
@@ -27,6 +27,10 @@ const Profile = () => {
       </ul>
     </div>
   );
+};
+
+Profile.propTypes = {
+  user: PropTypes.object.isRequired,
 };
 
 export default Profile;

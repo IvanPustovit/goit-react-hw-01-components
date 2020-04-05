@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import classes from "./Statistics.module.css";
 
 const Statistics = ({ title, stats }) => {
@@ -17,4 +18,11 @@ const Statistics = ({ title, stats }) => {
   );
 };
 
+Statistics.defaultProps = {
+  title: "Upload stats",
+};
+Statistics.propTypes = {
+  title: PropTypes.string,
+  stats: PropTypes.array.isRequired,
+};
 export default Statistics;
